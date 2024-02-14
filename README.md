@@ -1,5 +1,6 @@
 ![Path-traced image](https://github.com/TheRealMJP/DXRPathTracer/blob/master/DXRPathTracer.png)
-
+# Personal Additions
+I am currently working on implmenting a fisheye camera.
 # DXR Path Tracer
 This project is a very basic unidirectional path tracer that I wrote using DirectX Raytracing, also known as DXR. I mostly did this to learn the DXR API, and also for a bit of fun. Therefore you shouldn't take this as an example of the best or most performant way to implement a path tracer on the GPU: I mostly did whatever was fastest and/or easiest to implement! However it could be useful for other people looking for samples that are bit more complex than what's currently offered in the [offical DirectX sample repo](https://github.com/Microsoft/DirectX-Graphics-Samples), or for people who want to start hacking on something and don't want to do all of the boring work themselves. Either way, have fun!
 
